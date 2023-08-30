@@ -4,7 +4,7 @@
 
 **Profissão:** Data Analyst
 
-**HTML:** Treiando HTML 
+**HTML:** Treinando HTML 
 
 **Projeto:** Calculadora - HTML -CSS -JS
 
